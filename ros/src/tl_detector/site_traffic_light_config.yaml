@@ -5,4 +5,5 @@ camera_info:
   image_height: 600
 stop_line_positions:
     - [8.0, 16.2]
+model: '/../../../../frozen_models/real/frozen_inference_graph.pb'
 is_site: True

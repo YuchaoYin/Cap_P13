@@ -1,3 +1,20 @@
+### Programming a Real Self-Driving Car
+
+* Individual Submission
+  * Yuchao Yin
+  * Udacity Account: yinyuchao1990@hotmail.com
+  
+#### all the ros node are developed based on the course instructions and walkthrough videos
+
+# Traffic light classifier:
+
+Thanks to [TrafficLight_Detection-TensorFlowAPI](https://github.com/coldKnight/TrafficLight_Detection-TensorFlowAPI), which i followed to complete my classifier.
+
+The model is based on the pre-trained model: [COCO-trained Models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md), model name: ssd_mobilenet_v1_coco
+
+useful link:[selfDriving Vehicles: Traffic Light Detection and Classification with TensorFlow Object Detection API](https://medium.com/@Vatsal410/traffic-light-detection-tensorflow-api-c75fdbadac62)
+
+
 This is the project repo for the final project of the Udacity Self-Driving Car Nanodegree: Programming a Real Self-Driving Car. For more information about the project, see the project introduction [here](https://classroom.udacity.com/nanodegrees/nd013/parts/6047fe34-d93c-4f50-8336-b70ef10cb4b2/modules/e1a23b06-329a-4684-a717-ad476f0d8dff/lessons/462c933d-9f24-42d3-8bdc-a08a5fc866e4/concepts/5ab4b122-83e6-436d-850f-9f4d26627fd9).
 
 Please use **one** of the two installation options, either native **or** docker installation.
